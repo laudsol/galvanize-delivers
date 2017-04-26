@@ -1,0 +1,22 @@
+.background {
+  height: 600px;
+  background-image: url("img/28.jpg")
+}
+
+.center_box {
+  width: 100%;
+  position: inline-block;
+  padding-top: 18%;
+  }
+
+.right {
+  text-align: right;
+}
+
+.indent {
+    text-indent: 20px;
+}
+
+.center {
+  width: 100%;
+}
